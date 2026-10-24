@@ -38,11 +38,10 @@ _To be updated after documenting the actual dashboard findings._
 ```text
 Bank-Transaction-Risk-Monitor/
 │
-├── Dashboard/
-├── Screenshots/
-├── Dataset/
 ├── README.md
-└── LICENSE
+├── Screenshots/
+│   └── dashboard-overview.png
+└── Tableau-Public-Link.txt
 ```
 
 ## Author
